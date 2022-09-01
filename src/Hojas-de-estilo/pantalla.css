@@ -1,0 +1,16 @@
+.input {
+    height: 129px;
+    background-color: #182034;
+    color: #fff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-family: League Spartan, sans-serif;
+    font-size: 60px;
+    padding: 11px;
+    padding-right: 30px;
+    
+}

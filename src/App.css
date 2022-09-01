@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  height: 100vh;
+  background-color: #3a4764;
+  padding-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  font-family: Lato ,sans-serif;
+}
+
+.calculadora-container {
+  width: 543px;
+  min-width: 540px;
+  height: 634px;
+  background-color: #3a4764;
+  box-sizing: border-box;
+}
+
+.teclado-container {
+  height: 480px;
+  background-color: #232c43;
+  border-radius: 10px;
+  padding: 10px;
+
+}
+
+.fila{
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
